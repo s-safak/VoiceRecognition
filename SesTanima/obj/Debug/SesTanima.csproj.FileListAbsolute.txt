@@ -1,0 +1,24 @@
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\obj\Debug\SesTanima.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\obj\Debug\SesTanima.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\bin\Debug\SesTanima.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\bin\Debug\SesTanima.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\obj\Debug\SesTanima.Form1.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\obj\Debug\SesTanima.Properties.Resources.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima\obj\Debug\SesTanima.csproj.GenerateResource.Cache
+I:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.exe
+I:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.pdb
+I:\CD\Source\c#\SesTanima\SesTanima\bin\Debug\SesTanima.exe
+I:\CD\Source\c#\SesTanima\SesTanima\bin\Debug\SesTanima.pdb
+I:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\ResolveAssemblyReference.cache
+I:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.Form1.resources
+I:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.Properties.Resources.resources
+I:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.csproj.GenerateResource.Cache
+H:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.exe
+H:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.pdb
+H:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\ResolveAssemblyReference.cache
+H:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.Form1.resources
+H:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.Properties.Resources.resources
+H:\CD\Source\c#\SesTanima\SesTanima\obj\Debug\SesTanima.csproj.GenerateResource.Cache
+H:\CD\Source\c#\SesTanima\SesTanima\bin\Debug\SesTanima.exe
+H:\CD\Source\c#\SesTanima\SesTanima\bin\Debug\SesTanima.pdb

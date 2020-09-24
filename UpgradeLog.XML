@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SesTanima">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\SesTanima.suo">
+</Property><Property Name="Date" Value="13 Ekim 2008 Pazartesi">
+</Property><Property Name="Time" Value="16:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SesTanima.sln" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SesTanima.suo" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima.suo">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\SesTanima.csproj" Description="Project file successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\SesTanima.csproj">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Form1.cs" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Form1.cs">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Form1.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Program.cs" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Program.cs">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Resources\lightsOff.png" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Resources\lightsOff.png">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Resources\lightsOn.png" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Resources\lightsOn.png">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Form1.resx" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Form1.resx">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\admin\My Documents\Visual Studio 2008\Projects\SesTanima\Backup\SesTanima\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\SesTanima.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SesTanima" Source="SesTanima\SesTanima.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SesTanima.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SesTanima.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SesTanima" Source="SesTanima\SesTanima.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

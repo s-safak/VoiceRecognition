@@ -1,0 +1,8 @@
+G:\SesTanima\SesTanima\bin\Debug\SesTanima.exe
+G:\SesTanima\SesTanima\bin\Debug\SesTanima.pdb
+G:\SesTanima\SesTanima\obj\Debug\ResolveAssemblyReference.cache
+G:\SesTanima\SesTanima\obj\Debug\SesTanima.Form1.resources
+G:\SesTanima\SesTanima\obj\Debug\SesTanima.Properties.Resources.resources
+G:\SesTanima\SesTanima\obj\Debug\SesTanima.csproj.GenerateResource.Cache
+G:\SesTanima\SesTanima\obj\Debug\SesTanima.exe
+G:\SesTanima\SesTanima\obj\Debug\SesTanima.pdb
